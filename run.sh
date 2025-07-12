@@ -1,6 +1,7 @@
 #!/bin/bash
 
 set -xe
+
 gcc \
     -Wall -Wextra -pedantic \
     -o main \
