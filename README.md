@@ -1,4 +1,7 @@
 # Water Rocket Simulation
+
+![Software GUI](/assets/example.png)
+
 This software was originally made in Mathematica for the 2024 edition of the Brazilian Physicists' 
 Tournament (BPT) to simulate the "Pet Bottle Rocket" problem. The original software can be found 
 under the "deps" directory.
